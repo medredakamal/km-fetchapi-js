@@ -2,6 +2,8 @@
 
 How to fetch an API using fetch() method in JavaScript
 
+↪ [Live Demo](https://medredakamal.github.io/km-fetchapi-js/)
+
 You can check script.js file :
 
 ```js
@@ -36,8 +38,6 @@ const renderList = async () => {
 // here we do the init
 renderList();
 ```
-
-↪ [Live Demo](https://medredakamal.github.io/km-fetchapi-js/)
 
 If you are a developer, try to help this repository to get optimized with some pull requests!
 I would love to see that . . .
