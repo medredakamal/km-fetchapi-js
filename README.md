@@ -4,6 +4,10 @@ How to fetch an API using fetch() method in JavaScript
 
 ↪ [Live Demo](https://medredakamal.github.io/km-fetchapi-js/)
 
+## Overview
+
+![ProjectOverview](https://github.com/medredakamal/km-fetchapi-js/raw/main/screenshot.png)
+
 You can check script.js file :
 
 ```js
@@ -41,10 +45,6 @@ renderList();
 
 If you are a developer, try to help this repository to get optimized with some pull requests!
 I would love to see that . . .
-
-## Overview
-
-![ProjectOverview](https://github.com/medredakamal/km-fetchapi-js/raw/main/screenshot.png)
 
 ## Contributing
 
